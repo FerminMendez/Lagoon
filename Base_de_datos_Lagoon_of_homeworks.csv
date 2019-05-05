@@ -1,10 +1,10 @@
 ,,,Numero de grupo por materia,,
 Matricula,Contraseña,Nombre,Lengua,Matematicas,Ingles
-11,alfa,Ana,1,1,3
-12,beta,Beto,1,3,2
-13,gamma,Caro,2,3,3
-14,delta,Dani,2,2,2
-15,epsilon,Eli,3,1,1
-16,naranjas,Miguel,2,3,2
-A01703366,hola,Fermin,3,2,1
-A01703372,lol,Kevin,3,3,3
+11,alfa,Ana,l1,m1,i3
+12,beta,Beto,l1,m3,i2
+13,gamma,Caro,l2,m3,i3
+14,delta,Dani,l2,m2,i2
+15,epsilon,Eli,l3,m1,i1
+16,naranjas,Miguel,l2,m3,i2
+A01703366,hola,Fermin,l3,m2,i1
+A01703372,lol,Kevin,l3,m3,i3
